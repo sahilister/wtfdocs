@@ -14,7 +14,7 @@ See [wego](../../cmdrunner/wego).
 
 ## Configuration
 
-```yaml
+{{< code lang="yaml" >}}
     prettyweather:
       enabled: true
       city: "tehran"
@@ -27,7 +27,7 @@ See [wego](../../cmdrunner/wego).
       unit: "m"
       view: 0
       language: "en"
-```
+{{< /code >}}
 
 {{% attributes %}}
   {{< attributes/border >}}
@@ -51,6 +51,6 @@ See [wego](../../cmdrunner/wego).
 
 ## Source Code
 
-```bash
+{{< code lang="bash" >}}
 wtf/modules/weatherservices/prettyweather/
-```
+{{< /code >}}

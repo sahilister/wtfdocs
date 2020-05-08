@@ -9,7 +9,7 @@ Compare crypto currencies using [CryptoCompare](https://cryptocompare.com).
 
 ## Configuration
 
-```yaml
+{{< code lang="yaml" >}}
 cryptolive:
   enabled: true
   position:
@@ -54,7 +54,7 @@ cryptolive:
         name: red
         field: white
         value: green
-```
+{{< /code >}}
 
 ## Screenshots
 
@@ -74,6 +74,6 @@ cryptolive:
 
 ## Source Code
 
-```bash
+{{< code lang="bash" >}}
 wtf/modules/cryptoexchanges/cryptolive/
-```
+{{< /code >}}

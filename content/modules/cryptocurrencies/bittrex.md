@@ -9,7 +9,7 @@ Get the last 24 hour summary of cryptocurrencies market using [Bittrex](https://
 
 ## Configuration
 
-```yaml
+{{< code lang="yaml" >}}
 bittrex:
   colors:
     base:
@@ -32,7 +32,7 @@ bittrex:
       market:
       - LTC
       - ETH
-```
+{{< /code >}}
 
 ## Screenshots
 
@@ -52,6 +52,6 @@ bittrex:
 
 ## Source Code
 
-```bash
+{{< code lang="bash" >}}
 wtf/modules/cryptoexchanges/bittrex/
-```
+{{< /code >}}

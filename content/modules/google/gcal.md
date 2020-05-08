@@ -13,7 +13,7 @@ The configuration file downloaded is the file you use for the `secretFile` confi
 
 ## Configuration
 
-```yaml
+{{< code lang="yaml" >}}
 gcal:
   colors:
     title: "red"
@@ -44,7 +44,7 @@ gcal:
   showDeclined: true
   timezone: "America/Vancouver"
   withLocation: true
-```
+{{< /code >}}
 
 ## Screenshots
 
